@@ -4,6 +4,7 @@
     url(/static/fonts/barlowcondensed-bold.woff) format("woff");
   font-weight: 700;
   font-style: normal;
+  font-display: swap;
 }
 :root {
   /* @link https://utopia.fyi/type/calculator?c=360,16,1.333,2000,24,1.333,5,1,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
