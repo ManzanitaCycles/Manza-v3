@@ -1,0 +1,18 @@
+{
+  "name": "manza-v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "clean-css": "^5.3.1",
+    "html-minifier": "^4.0.0"
+  }
+}

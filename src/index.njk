@@ -1,0 +1,47 @@
+---
+layout: layouts/base.njk
+title: Manzanita Cycles
+metaDesc: Custom steel bike frames for your next adventure
+type: website
+---
+
+<div class="center section-flow">
+<section>
+    <figure>
+    <img data-blink-uuid="ded5de21-93cd-4f27-9063-d4b290331f2a" alt="" width="3000" height="2005">
+  </figure>
+  <h1 class="h1 flow-m reduced-line-height">Custom steel bike frames for your next adventure</h1>
+</section>
+
+<section>
+    <h2>Bikes</h2>
+    <h3 class="subheader">{{ bikes.intro }}</h3>
+    <div class="grid-3 flow-l">
+        {% for post in collections.bikes %}
+          <div class="grid-item">{% include "partials/_card.njk" %}</div>
+        {% endfor %}
+    </div>
+</section>
+
+<section>
+    <h2>Manzanita love</h2>
+    <h3 class="subheader">I swear these customers weren't bribed</h3>
+    <div class="grid flow-l">
+    {% for quote in quotes %}
+        {% include "partials/_quotes.njk" %}
+    {% endfor %}
+    </div>
+</section>
+
+<section>
+  <h2>From the blog</h2>
+  <h3 class="subheader">Build reviews, trip reports, and opinion pieces</h3>
+  <div class="grid flow-l">
+    {% set latest_posts = collections.blog | reverse %}
+    {% for post in latest_posts.slice(0,4) %}
+      <div class="grid-item">{% include "partials/_card.njk" %}</div>
+    {% endfor %}
+  </div>
+  <p class="flow-xl"><a class="cta" href="/blog">View all posts</a></p>
+</section>
+</div>

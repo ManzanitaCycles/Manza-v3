@@ -1,0 +1,267 @@
+@font-face {
+  font-family: Barlow Condensed;
+  src: url(/static/fonts/barlowcondensed-bold.woff2) format("woff2"),
+    url(/static/fonts/barlowcondensed-bold.woff) format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+:root {
+  /* @link https://utopia.fyi/type/calculator?c=360,16,1.333,2000,24,1.333,5,1,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
+  --fs--1: clamp(0.75rem, calc(0.67rem + 0.37vw), 1.13rem);
+  --fs-0: clamp(1rem, calc(0.89rem + 0.49vw), 1.5rem);
+  --fs-1: clamp(1.33rem, calc(1.19rem + 0.65vw), 2rem);
+  --fs-2: clamp(1.78rem, calc(1.58rem + 0.87vw), 2.67rem);
+  --fs-3: clamp(2.37rem, calc(2.11rem + 1.16vw), 3.55rem);
+  --fs-4: clamp(3.16rem, calc(2.81rem + 1.54vw), 4.74rem);
+  --fs-5: clamp(4.21rem, calc(3.75rem + 2.05vw), 6.31rem);
+  /* @link https://utopia.fyi/space/calculator?c=360,16,1.333,2000,24,1.333,5,1,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
+  --space-3xs: clamp(0.25rem, calc(0.22rem + 0.12vw), 0.38rem);
+  --space-2xs: clamp(0.5rem, calc(0.45rem + 0.24vw), 0.75rem);
+  --space-xs: clamp(0.75rem, calc(0.67rem + 0.37vw), 1.13rem);
+  --space-s: clamp(1rem, calc(0.89rem + 0.49vw), 1.5rem);
+  --space-m: clamp(1.5rem, calc(1.34rem + 0.73vw), 2.25rem);
+  --space-l: clamp(2rem, calc(1.78rem + 0.98vw), 3rem);
+  --space-xl: clamp(3rem, calc(2.67rem + 1.46vw), 4.5rem);
+  --space-2xl: clamp(4rem, calc(3.56rem + 1.95vw), 6rem);
+  --space-3xl: clamp(6rem, calc(5.34rem + 2.93vw), 9rem);
+  --space-3xs-2xs: clamp(0.25rem, calc(0.14rem + 0.49vw), 0.75rem);
+  --space-2xs-xs: clamp(0.5rem, calc(0.36rem + 0.61vw), 1.13rem);
+  --space-xs-s: clamp(0.75rem, calc(0.59rem + 0.73vw), 1.5rem);
+  --space-s-m: clamp(1rem, calc(0.73rem + 1.22vw), 2.25rem);
+  --space-m-l: clamp(1.5rem, calc(1.17rem + 1.46vw), 3rem);
+  --space-l-xl: clamp(2rem, calc(1.45rem + 2.44vw), 4.5rem);
+  --space-xl-2xl: clamp(3rem, calc(2.34rem + 2.93vw), 6rem);
+  --space-2xl-3xl: clamp(4rem, calc(2.9rem + 4.88vw), 9rem);
+
+  --font-main: Georgia, serif;
+  --font-special: Barlow Condensed, helvetica neue, helvetica, arial, sans-serif;
+
+  --color-dark: #444;
+  --color-darkish: #777;
+  --color-light: #efefef;
+
+  --flow: 1.5;
+}
+
+/**
+ * Element styles
+ */
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+  color: inherit;
+}
+
+a {
+  font-weight: 700;
+}
+
+body {
+  text-rendering: optimizeSpeed;
+  line-height: var(--flow);
+  color: var(--color-dark);
+  font-family: var(--font-main);
+  font-size: var(--fs-0);
+  background-color: var(--color-light);
+}
+
+em {
+  font-style: italic;
+}
+
+footer {
+  margin-block-start: var(--space-m);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-special);
+  font-weight: 700;
+  line-height: calc(0.8 * var(--flow));
+  max-width: 20ch;
+}
+
+h1,
+.h1 {
+  font-size: var(--fs-5);
+}
+
+h2,
+.h2 {
+  font-size: var(--fs-3);
+}
+
+h3,
+.h3 {
+  font-size: var(--fs-2);
+  max-width: 100%;
+}
+
+h4,
+.h4 {
+  font-size: var(--fs-0);
+  max-width: 100%;
+  letter-spacing: 0.04em;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+main {
+  margin-block-start: var(--space-xl);
+}
+
+nav * {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+strong {
+  font-weight: 700;
+}
+
+ul > li {
+  list-style-type: circle;
+}
+
+/**
+ * Component styles
+ */
+
+.center {
+  box-sizing: content-box;
+  margin-inline: auto;
+  max-inline-size: 60ch;
+  padding-inline-start: var(--space-m);
+  padding-inline-end: var(--space-m);
+}
+
+.cluster {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-m);
+  justify-content: flex-start;
+  align-items: center;
+  line-height: 1;
+}
+
+.grid {
+  display: grid;
+  grid-gap: var(--space-l);
+  grid-template-columns: repeat(auto-fit, minmax(min(19rem, 100%), 1fr));
+}
+
+.grid-3 {
+  display: grid;
+  grid-gap: var(--space-m);
+  grid-template-columns: repeat(auto-fit, minmax(min(13rem, 100%), 1fr));
+}
+
+.stack * + * {
+  margin-block-start: var(--space-m);
+}
+
+.stack h2,
+.stack h3,
+.stack h1 + figure,
+.stack h1 + p {
+  margin-block-start: var(--space-xl);
+}
+
+.stack ul,
+.stack ol {
+  padding-inline: 1em;
+}
+
+.stack br,
+.stack h3 + ul li {
+  margin-block-start: 0;
+}
+
+/**
+ *  Block level styles
+ */
+
+.cta {
+  text-decoration: none;
+  font-family: var(--font-special);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background-color: var(--color-dark);
+  color: var(--color-light);
+  padding: 1rem;
+  font-size: var(--fs--1);
+}
+
+.logo {
+  margin-inline-end: var(--space-l);
+}
+
+.nav * {
+  font-family: var(--font-special);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  list-style-type: none;
+}
+
+.section-flow > * + * {
+  margin-block-start: var(--space-2xl-3xl);
+}
+
+.subheader {
+  color: var(--color-darkish);
+  font-size: var(--fs-0);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+/**
+  * Utility Classes
+  */
+
+.flow-xs {
+  margin-block-start: var(--space-xs);
+}
+
+.flow-s {
+  margin-block-start: var(--space-s);
+}
+
+.flow-m {
+  margin-block-start: var(--space-m);
+}
+
+.flow-l {
+  margin-block-start: var(--space-l);
+}
+
+.flow-xl {
+  margin-block-start: var(--space-xl);
+}
+
+.flow-xl-2xl {
+  margin-block-start: var(--space-xl-2xl);
+}
+
+.font-special {
+  font-weight: 700;
+  font-family: var(--font-special);
+  letter-spacing: .04em;
+}
+
+.reduced-line-height {
+  line-height: 1.1;
+}

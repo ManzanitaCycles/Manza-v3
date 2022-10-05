@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+permalink: /bikes/
+title: Bikes
+metaDesc: Check out custom steel hardtails, gravel, and all-road bikes.
+type: website
+---
+<div class="center">
+<h1>{{ title }}</h1>
+<div class="grid flow-xl">
+  {% for post in collections.bikes %}
+    <div>{% include "partials/_card.njk" %}</div>
+  {% endfor %}
+</div>
+</div>

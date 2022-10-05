@@ -1,0 +1,10 @@
+<nav class="flow-xl">
+    {%- set previousPost = collections.blog | getPreviousCollectionItem(page) %}
+    {%- if previousPost %}
+        <p>Older post: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></p>
+    {% endif %}
+    {%- set nextPost = collections.blog | getNextCollectionItem(page) %}
+    {%- if nextPost %}
+        <p>Newer post: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></p>
+    {% endif %}
+</nav>

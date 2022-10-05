@@ -1,0 +1,14 @@
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Styles -->
+	{% set css %}{% include "css/styles.css" %}{% endset %}
+	<!-- feed it through our cssmin filter to minify -->
+	<style>{{ css | cssmin | safe }}</style>
+	<!-- SEO -->
+	{% include "partials/_meta.njk" %}
+	<!-- UploadCare -->
+	<script>
+		!function(e,n){var o=document.createElement("script");o.setAttribute("src","https://ucarecdn.com/libs/blinkloader/3.x/blinkloader.min.js"),o.onload=function(){window.Blinkloader.optimize({pubkey:"21df02fb16487b7a19c8",fadeIn:!1,lazyload:!0,smartCompression:!0,responsive:!0,retina:!0,webp:!0})},(document.head||document.body).appendChild(o)}();
+	</script>
+</head>
