@@ -3,7 +3,7 @@ title: Mike's gravel bike
 date: 2022-10-04
 featuredImage: 908f5be0-c85e-4e0d-8a28-b88de79f8e46
 alt: Manzanita gravel bike
-metaDesc: McCord requested a gravel bike that would be ideal for events like the Lost and Found Gravel Grinder.
+metaDesc: Reno local Dr. Mike S. asked me to make him a gravel bike with clearance for the fabulously comfortable and fast Rene Herse 700x55 tires.
 ---
 
 Reno local Dr. Mike S. asked me to make him a gravel bike with clearance for the fabulously comfortable and fast Rene Herse 700x55 tires.
