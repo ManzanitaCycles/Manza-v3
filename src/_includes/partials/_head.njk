@@ -9,6 +9,19 @@
 	{% include "partials/_meta.njk" %}
 	<!-- UploadCare -->
 	<script>
-		!function(e,n){var o=document.createElement("script");o.setAttribute("src","https://ucarecdn.com/libs/blinkloader/3.x/blinkloader.min.js"),o.onload=function(){window.Blinkloader.optimize({pubkey:"21df02fb16487b7a19c8",fadeIn:!1,lazyload:!0,smartCompression:!0,responsive:!0,retina:!0,webp:!0})},(document.head||document.body).appendChild(o)}();
+		(function(src, cb) {
+			var s = document.createElement('script'); s.setAttribute('src', src);
+			s.onload = cb; (document.head || document.body).appendChild(s);
+		})('https://ucarecdn.com/libs/blinkloader/3.x/blinkloader.min.js', function() {
+			window.Blinkloader.optimize({
+			pubkey:'21df02fb16487b7a19c8',
+			fadeIn:false,
+			lazyload:true,
+			smartCompression:true,
+			responsive:true,
+			retina:true,
+			webp:true
+			});
+		})
 	</script>
 </head>
