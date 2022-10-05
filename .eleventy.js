@@ -10,7 +10,7 @@ function(eleventyConfig) {
     // Post image shortcode
     eleventyConfig.addShortcode("img", function(src, alt) {
         return `<figure>
-        <img data-blink-uuid="${src}" alt="${alt} width="1500" height="1000"">
+        <img data-blink-uuid="${src}" alt="${alt}" width="900" height="600">
         </figure>`;
     });
 
