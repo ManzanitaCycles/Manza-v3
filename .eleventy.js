@@ -4,8 +4,7 @@ const CleanCSS = require("clean-css");
 module.exports = 
 function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./src/static/css');
-    // Copy `img/favicon/` to `_site/`
-    eleventyConfig.addPassthroughCopy({ "./src/static/img": "/" });
+    eleventyConfig.addPassthroughCopy('./src/static/img');
     eleventyConfig.addPassthroughCopy('./src/static/fonts');
 
     // Post image shortcode
