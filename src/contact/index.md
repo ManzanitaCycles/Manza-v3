@@ -10,6 +10,6 @@ type: website
 
 Nick Jensen<br>
 Reno, NV<br>
-[650-207-0312](href="tel:+16502070312")<br>
-[nick@manzanitacycles.com](href="mailto:nick@manzanitacycles.com")<br>
-[Instagram](href="https://www.instagram.com/manzanitacycles/")<br>
+<a href="tel:+16502070312">650-207-0312</a><br>
+<a href="mailto:nick@manzanitacycles.com">nick@manzanitacycles.com</a><br>
+<a href="https://www.instagram.com/manzanitacycles/">Instagram</a>
