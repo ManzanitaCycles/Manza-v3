@@ -24,3 +24,9 @@
 {% if metaDesc %}
   <meta name="description" content="{{ metaDesc }}" />
 {% endif %}
+
+{% if robots %}
+  <meta name="robots" content="none" />
+{% else %}
+  <meta name="robots" content="all" />
+{% endif %}
