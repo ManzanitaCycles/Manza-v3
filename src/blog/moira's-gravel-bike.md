@@ -3,7 +3,7 @@ title: Moira's gravel bike
 date: 2022-10-12
 featuredImage: a2e7a741-dee1-403a-928f-8cce18cba672
 alt: Moira's Manzanita gravel bike
-metaDesc: 
+metaDesc: Moira lives in rural Nevada. She wanted a bike to explore the infinite dirt roads in the state and to do some bikepacking with her dog.
 ---
 
 These types of adventure, bikepacking, gravel bikes are so fun to bring into the world. They're built ready to go on a long gravel ride and then to pick up some groceries on the way home.

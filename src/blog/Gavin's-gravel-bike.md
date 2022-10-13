@@ -3,7 +3,7 @@ title: Gavin's gravel bike
 date: 2022-10-05
 featuredImage: 689222cb-9f88-4c6a-aeac-94048389c799
 alt: Manzanita gravel bike
-metaDesc: 
+metaDesc: Gavin B. wanted a gravel bike for enjoying the dirt roads around Reno and Truckee. Although he doesn't race, he was keen to design the bike for efficiency.
 ---
 
 Gavin B. wanted a gravel bike for enjoying the dirt roads around Reno and Truckee. Although he doesn't race, he was keen to design the bike for efficiency. 
