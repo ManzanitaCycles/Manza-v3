@@ -192,6 +192,9 @@ ul > li {
   margin-block-start: 0;
 }
 
+label {
+}
+
 /**
  *  Block level styles
  */
