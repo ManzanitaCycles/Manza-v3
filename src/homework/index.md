@@ -2,7 +2,7 @@
 title: Homework
 permalink: /homework/
 layout: layouts/page.njk
-metaDesc: Learn more about owner Nick Jensen and the birth of Manzanita Cycles.
+metaDesc: Undercover page on the site for customers to get started after placing a deposit.
 type: article
 robots: none
 ---
