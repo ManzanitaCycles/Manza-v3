@@ -15,9 +15,17 @@ The links below take you to some Google forms, where you'll input your body and 
 
 If you're unsure about your bike fit, a promising and affordable alternative to a traditional bike fit is [My Velo Fit](https://www.myvelofit.com/). I can't vouch for it yet, as I haven't tested it, but it's an option to consider.
 
+Fill out the following forms if you're ordering a hardtail:
+
 1. [Body dimensions form](https://forms.gle/7YdbgWcz8iGoV1Te8) - You'll need a friend to help you accurately measure your body.
-2. [Bike dimensions form](https://forms.gle/CtQF5yQfq5gaeezZ7) - Measure the bike you're currently most comfortable on.
-3. [Hardtail questionnaire](https://forms.gle/LJTZ6VJFaW7vgyfj7) - You only need to fill this form out if you're ordering a hardtail.
+2. [Hardtail dimensions form](https://forms.gle/CtQF5yQfq5gaeezZ7) - Measure the bike you're currently most comfortable on.
+3. [Hardtail questionnaire](https://forms.gle/LJTZ6VJFaW7vgyfj7)
+
+Fill out the following forms if you're ordering an all-road or gravel bike:
+
+1. [Body dimensions form](https://forms.gle/7YdbgWcz8iGoV1Te8) - You'll need a friend to help you accurately measure your body.
+2. [Drop bar bike dimensions](https://forms.gle/vQtaFm57UnrZG8AW8) - Measure the bike you're currently most comfortable on.
+2. [Gravel bike questionnaire](https://forms.gle/vVSwmktvU5mqgp2J7)
 
 ## Paint options
 
