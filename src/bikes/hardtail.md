@@ -15,7 +15,7 @@ You can choose how much fork travel you want the frame designed for: from a full
 
 And if you want to take your hardtail bikepacking, you can request mounts for a custom, bolt-on frame bag and extra water bottles.
 
-Starting at **$2,000**
+Starting at **$2,199**
  
 ### Standard specs
 

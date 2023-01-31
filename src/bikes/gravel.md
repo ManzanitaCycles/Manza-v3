@@ -13,7 +13,7 @@ Your Manzanita gravel bike will be designed and built for you. The fit, geometry
 
 And if you want to take it bikepacking, you can request mounts for a custom, bolt-on frame bag, extra water bottles, and a rear rack.
 
-Starting at **$2,000**
+Starting at **$2,199**
 
 ### Standard specs
 

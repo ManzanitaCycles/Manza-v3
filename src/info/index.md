@@ -8,7 +8,7 @@ type: article
 
 ## How much does a frame and fork cost?
 
-All fillet-brazed steel frames start at **$2,000**.
+All fillet-brazed steel frames start at **$2,199**.
 
 This includes two sets of mounting points for water bottles, stops/guides for brake and derailleur lines, ISO disc brake mounting, 12mm thru axle dropouts, and a single color powder coat with contrasting graphics.
 
