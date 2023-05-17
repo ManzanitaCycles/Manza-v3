@@ -21,7 +21,7 @@ This includes either a lugged crown, segmented, or unicrown fork with ISO disc b
 
 ## Is shipping included in the price?
 
-I use BikeFlights or ShipBikes to ship your bike with insurance to cover its replacement in case of theft or damage. Shipping to a US destination starts at $100 for a frame set and $150 for a complete bike. International destinations will be more. You can also pick up the bike from Manzanita Cycles World Headquarters if you live near Reno.
+I typically use UPS to ship your bike with insurance to cover its replacement in case of theft or damage. Shipping to a US destination starts at $100 for a frame set and $150 for a complete bike. International destinations will be more. You can also pick up the bike from Manzanita Cycles World Headquarters if you live near Reno.
 
 
 ## What's the ordering process?
@@ -39,9 +39,7 @@ I use BikeFlights or ShipBikes to ship your bike with insurance to cover its rep
 
 ## What is your turnaround time?
 
-I will provide you an estimated turnaround time during our first discussion. Although I try to keep an inventory of commonly-used raw materials, the global supply chain continues to cause delays. 
-
-It really depends on whether all of the materials and components are available at the time when you place your deposit and how complicated your paint scheme is. A simple powder coat can knock off an extra month or more of waiting compared to a fancier paint job.
+I will provide you an estimated turnaround time during our first discussion. Note that until you pay the deposit, the estimate isn't locked in. The deposit secures your spot in the build schedule. 
 
 
 ## What is the warranty?
@@ -68,3 +66,11 @@ Although I prefer to build your bike as a complete unit in order to guarantee th
 ## Do you build custom wheels, racks, or stems?
 
 I prefer to focus on making you the best frame and fork possible. There are several professional wheel builders I can recommend. Tubus and Nitto make the best touring and randonneuring racks. I regularly use those racks to place rack mounts. And we can always paint your stem to match the frame if you want that fully integrated look.
+
+## What are the paint options?
+
+The base price includes a single color powder coat finish with painted graphics.
+
+You can have your frame powder coated, cerakoted, or painted with liquid paint. I use the same skilled professional painter for all three options.
+
+While liquid paint offers the most color options and artistic design, it's more delicate. Cerakote, while more durable than powder coat, has the fewest color choices. I think powder coating is the best blend of durability, looks, and value. 
