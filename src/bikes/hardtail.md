@@ -20,12 +20,12 @@ Starting at **$2,199**
 ### Standard specs
 
 - Custom tubing selection, including custom bent chainstays, seatstays, and seat tube
-- 29x2.6" or 27.5x2.8" max tire clearance
+- 2.6" max tire clearance
 - 420mm minimum chainstay length
 - 148x12 rear dropout spacing
-- 52mm chainline
+- 52mm or 55mm chainline
 - 36t max chainring
-- IS rear disc brake mount
+- IS or flat mount rear disc brake mount
 - 180mm max rear rotor size
 - 34.9mm seat tube diameter
 - 31.6mm seat post diameter
@@ -37,7 +37,7 @@ Starting at **$2,199**
 
 ### Included with the frame
 
-- Wolftooth aluminum bolt-on rear axle
+- Paragon Machine Works bolt-on rear axle
 - Engin Cycles dual bolt seat collar
 
 ### Optional extras
@@ -45,6 +45,7 @@ Starting at **$2,199**
 - Bolt-on frame bag mounts: $30
 - Extra water bottle mounts: $25
 - Sliding dropouts: $100
+- UDH compatible dropouts: $0
 - Wet paint or cerakote: $200 and up
 
 

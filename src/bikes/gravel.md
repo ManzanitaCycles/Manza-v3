@@ -18,7 +18,7 @@ Starting at **$2,199**
 ### Standard specs
 
 - Custom tubing selection, including custom bent chainstays and seatstays
-- 700x55 max tire clearance
+- 2.25" or 57mm max tire clearance for 700c or 650b tires
 - 142x12 rear dropout spacing
 - 68mm English threaded bottom bracket
 - 47mm chainline
@@ -26,13 +26,14 @@ Starting at **$2,199**
 - Flat or IS brake mount
 - 160mm max rear rotor size
 - 27.2mm seat post diameter
+- 30mm seat tube diameter
 - Externally routed brake and derailleur lines
 - Mounts for two water bottles inside the frame
 - Single color powdercoat with contrasting graphics
 
 ### What's included with the frame
 
-- Wolftooth aluminum bolt-on rear axle
+- Paragon Machine Works aluminum bolt-on rear axle
 - Wolftooth seat post collar
 
 ### Optional extras
@@ -42,6 +43,8 @@ Starting at **$2,199**
 - Fender mounts: $50
 - Rack mounts: $50
 - Internal dropper post routing: $50
+- Sliding dropouts: $100
+- UDH compatible dropouts: $0
 - Custom wet paint design or cerakote: $200 and up
 
 
@@ -49,7 +52,7 @@ Starting at **$2,199**
 
 You can opt for a Manzanita steel fork for **$599** or a carbon fork.
 
-Steel forks use straight steerer tubes and more flexible fork blades for a little more front-end compliance. We can customize the fork offset to optimize the handling. The fork can also accommodate a 180mm rotor. It comes with an IS brake mount for running a post mount brake. Flat mount brakes are currently not an option for steel forks.
+Steel forks use straight steerer tubes and more flexible fork blades for a little more front-end compliance. We can customize the fork offset to optimize the handling. The fork can also accommodate a 180mm rotor. You have the option to go with a unicrown or segmented design. It comes with an IS brake mount for running a post mount brake. Flat mount brakes are currently not an option for steel forks.
 
 Carbon forks weigh less. That's their real advantage. Otherwise, all carbon forks are limited to 160mm rotors and flat mount brakes. Carbon forks cannot be powder coated.
 
