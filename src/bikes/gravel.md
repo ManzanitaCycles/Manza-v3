@@ -9,6 +9,8 @@ metaDesc: A versatile bikepacking, dirt-road-loving, adventure machine.
 
 ## The versatile adventure machine
 
+There is no wrong way to set up a gravel bike. You can have a fat-tire road bike or a progressive drop bar mountain bike or something in between. It depends on the terrain you like to ride and how much you enjoy underbiking. 
+
 Your Manzanita gravel bike will be designed and built for you. The fit, geometry, and tubing selection will be tuned for your weight, riding style, and frame size.
 
 And if you want to take it bikepacking, you can request mounts for a custom, bolt-on frame bag, extra water bottles, and a rear rack.

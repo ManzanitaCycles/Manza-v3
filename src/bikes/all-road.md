@@ -19,12 +19,12 @@ Starting at **$2,199**
 
 ### Standard specs
 
--  Custom tubing selection, including custom bent chainstays and seatstays
+- Custom tubing selection, including custom bent chainstays and seatstays
 - 700x38 or 650bx42 max tire clearance
-- 142x12 rear dropout spacing
+- 130 or 142 rear dropout spacing
 - 68mm English threaded bottom bracket
 - 1x and 2x compatible
-- Flat or IS brake mount
+- Rim brake, flat or IS disc brake mount
 - 27.2mm seat post diameter
 - Externally routed brake and derailleur lines
 - Mounts for two water bottles inside the frame
@@ -32,8 +32,8 @@ Starting at **$2,199**
 
 ### What's included with the frame
 
-- Wolftooth aluminum bolt-on rear axle
-- Wolftooth seat post collar
+- Paragon Machine Works aluminum bolt-on rear axle for disc brake frames
+- Wolftooth seat post collar if a braze-on seat post binder isn't used
 
 ### Optional extras
 
@@ -41,16 +41,16 @@ Starting at **$2,199**
 - Extra water bottle mounts: $25
 - Fender mounts: $50
 - Rack mounts: $50
-- Rim brakes and QR dropouts instead of disc brakes: $0
 - Custom wet paint or cerakote: $200 and up
+- Contact me for custom dynamo wiring and other randonneuring specific options
 
 ### Fork options
 
 You can opt for a Manzanita steel fork for **$599** or a carbon fork.
 
-Steel forks use straight steerer tubes and more flexible fork blades for a little more front-end compliance. We can customize the fork offset to optimize the handling. The fork can also accommodate a 180mm rotor. It comes with an IS brake mount for running a post mount brake. Flat mount brakes are currently not an option for steel forks.
+Steel forks use straight steerer tubes and more flexible fork blades for a little more front-end compliance. We can customize the fork offset to optimize the handling. The fork can be made for rim or disc brakes. At this time a flat mount fork option is unavailable. 
 
-Carbon forks weigh less. That's their real advantage. Otherwise, all carbon forks are limited to 160mm rotors and flat mount brakes. Carbon forks cannot be powder coated.
+Carbon forks weigh less. That's their real advantage. Carbon forks cannot be powder coated.
 
 ### Steel fork optional extras
 
@@ -58,6 +58,7 @@ Carbon forks weigh less. That's their real advantage. Otherwise, all carbon fork
 - Fender mounts: $25
 - Rack mounts (per pair): $25
 
+{% img "7a7a975b-a669-4901-ba38-70d7d2ea7632", "" %}
 {% img "e3e935fd-fc3a-41bb-bfc4-6db8bc246aeb", "" %}
 {% img "5f72fd63-ecf3-4ea6-9923-af3ee3fb26c9", "" %}
 {% img "4a6e97fd-7b29-492c-a25a-a3aff31a5bb9", "" %}
