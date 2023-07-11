@@ -1,11 +1,11 @@
 ---
 title: Gravel
-featuredImage: 74f96a03-ecaa-4f03-9aa0-0cb27f46d48c
-alt: gravel bikepacking bike
+featuredImage: 6d991544-fd80-4741-812e-d936e02dd4d7
+alt: 650b gravel bike with dropper post
 metaDesc: A versatile bikepacking, dirt-road-loving, adventure machine.
 ---
 
-{% img "74f96a03-ecaa-4f03-9aa0-0cb27f46d48c", "Manzanita gravel adventure bike" %}
+{% img "6d991544-fd80-4741-812e-d936e02dd4d7", "650b gravel bike with dropper post" %}
 
 ## The versatile adventure machine
 
@@ -45,6 +45,7 @@ Starting at **$2,199**
 - Internal dropper post routing: $50
 - Sliding dropouts: $100
 - UDH compatible dropouts: $0
+- Manzanita signature double arch seat stay bridge $50
 - Custom wet paint design or cerakote: $200 and up
 
 
