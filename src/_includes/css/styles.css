@@ -142,7 +142,6 @@ article li + li {
   place-content: center;
   overflow: hidden;
   text-align: center;
-  aspect-ratio: 3000 / 2005;
 }
 
 .grid-hero > * {
@@ -151,6 +150,11 @@ article li + li {
 
 .grid-hero h1 {
   z-index: 10;
+}
+
+.grid-hero img {
+  aspect-ratio: 3000 / 2005;
+  position: relative;
 }
 
 @media all and (min-width: 50rem) {
