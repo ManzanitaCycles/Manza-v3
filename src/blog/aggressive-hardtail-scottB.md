@@ -1,5 +1,5 @@
 ---
-title: Scott's aggressive hardtail
+title: Aggressive hardtail for Scott B.
 date: 2019-09-05
 featuredImage: 6f264ca3-02bb-4a33-b099-25fa12dee4bb
 alt: An aggressive 29er hardtail for a big rider

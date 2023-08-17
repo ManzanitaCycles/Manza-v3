@@ -1,5 +1,5 @@
 ---
-title: Gavin's gravel bike
+title: Gravel bike for Gavin B.
 date: 2022-10-05
 featuredImage: 689222cb-9f88-4c6a-aeac-94048389c799
 alt: Manzanita gravel bike

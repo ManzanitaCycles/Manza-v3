@@ -5,7 +5,7 @@ layout: layouts/page.njk
 metaDesc: Learn more about owner Nick Jensen and the birth of Manzanita Cycles.
 type: article
 ---
-<div class="flow-xl" style="overflow:hidden; position:relative; padding-top:56.25%;">
+<div style="overflow:hidden; position:relative; padding-top:56.25%;">
 <iframe style="position:absolute; width:100%; height:100%; top:0; left:0;" src="https://www.youtube.com/embed/_EwTxYHGoxY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -17,11 +17,16 @@ type: article
 
 I have years of experience bicycle touring, bikepacking, and taking my bikes on adventures. Your bike must fit well when you’re in the saddle all day, multiple days in a row. I also understand how luggage affects a bike’s personality. I will make sure your loaded bicycle handles predictably. When you’re confident and comfortable on your bike, you can relax your body. This conserves energy, prevents accidents, and makes the bike a joy to ride.
 
+<div class="l-grid img-grid full-bleed">
 {% img "d5c36495-1ca6-4d4f-9a77-e6af5df5db00" "Friends posing with their bikepacking bikes" %}
 {% img "9cfe55b7-b097-4e39-940b-5b061a192d44" "Bikepacking in Joshua Tree National Park" %}
 {% img "30617a51-1c1a-4664-9a84-7683d404184e" "Touring the Blue Ridge Parkway" %}
 {% img "7455b0e8-7f77-47ce-b0b9-cd517f992ef8" "Touring in Norway" %}
+{% img "166317d2-b79b-497d-a1bf-0a9be2a11e59" "Surprise snow storm blankets my bike" %}
+{% img "9bb1db41-843d-4837-b70b-5705349cc0c2" "Eating a pastry in Iceland" %}
 {% img "ea28b73b-7a15-474d-8176-4e5dc2958182" "Getting eaten by a troll in Norway" %}
+
+</div>
 
 ## How long have you been building frames?
 

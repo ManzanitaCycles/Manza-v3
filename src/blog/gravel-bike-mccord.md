@@ -1,5 +1,5 @@
 ---
-title: McCord's gravel bike
+title: Gravel bike for McCord
 date: 2020-05-26
 featuredImage: 14e71d8b-5496-4812-a533-e4bb8da6550e
 alt: Manzanita gravel bike

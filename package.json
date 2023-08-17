@@ -1,10 +1,10 @@
 {
-  "name": "manza-v3",
+  "name": "manza-v3.2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "eleventy --serve",
+    "start": "npx eleventy --serve",
     "build": "eleventy"
   },
   "keywords": [],
@@ -13,6 +13,8 @@
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "clean-css": "^5.3.1",
-    "html-minifier": "^4.0.0"
+    "cssnano": "^6.0.1",
+    "html-minifier": "^4.0.0",
+    "postcss": "^8.4.28"
   }
 }

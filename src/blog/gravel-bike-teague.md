@@ -1,5 +1,5 @@
 ---
-title: Teague's gravel bike
+title: Gravel bike for Teague
 date: 2023-04-07
 featuredImage: 365db345-00fa-40ea-bb6f-1e9508c470ac
 alt: Teague's purple and silver 2x gravel bike

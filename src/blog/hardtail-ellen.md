@@ -1,5 +1,5 @@
 ---
-title: Ellen's hardtail
+title: Hardtail for Ellen
 date: 2022-10-28
 featuredImage: 84adfefe-e9da-4a9a-9f50-6882dcbec6b3
 alt: Ellen's shiny blue bikepacking hardtail

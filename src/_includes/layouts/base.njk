@@ -1,6 +1,30 @@
 <!DOCTYPE html>
 <html lang="en-us">
-{% include "partials/_head.njk" %}
-{% include "partials/_header.njk" %}
-{% include "partials/_main.njk" %}
-{% include "partials/_footer.njk" %}
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Styles -->
+	{% set css %}{% include "css/styles.css" %}{% endset %}
+	<!-- feed it through our cssmin filter to minify -->
+	<style>{{ css | postcss | safe }}</style>
+	<!-- SEO -->
+	{% include "partials/_meta.njk" %}
+	<!-- Favicon -->
+	<link rel="icon" href="/static/img/favicon.png" type="image/png">
+	<!-- UploadCare -->
+	{% include "partials/_uploadcare.njk" %}
+</head>
+<body>
+	<header class="center main-header">
+		{% include "partials/_navigation.njk" %}
+	</header>
+    <main>
+        {{ content | safe }}
+    </main>
+    <footer class="invert-color region">
+        <div class="center">
+            {% include "partials/_navigation.njk" %}
+        </div>
+    </footer>
+</body>
+</html>

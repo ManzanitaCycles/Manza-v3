@@ -1,5 +1,5 @@
 ---
-title: Mike L.'s randonneur
+title: Randonneur for Mike L.
 date: 2023-06-30
 featuredImage: f2a64889-3360-4998-88d4-9820a6124b9a
 alt: Manzanita randonneuring bike

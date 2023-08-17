@@ -5,11 +5,12 @@ title: Bikes
 metaDesc: Check out custom steel hardtails, gravel, and all-road bikes.
 type: website
 ---
-<div class="center">
-<h1>{{ title }}</h1>
-<div class="grid flow-xl">
-  {% for post in collections.bikes %}
-    <div>{% include "partials/_card.njk" %}</div>
-  {% endfor %}
-</div>
-</div>
+
+<article class="wrapper">
+  <h1 class="text-center white-space">{{title}}</h1>
+  <div class="l-grid grid-3up flow-s">
+    {% for post in collections.bikes %}
+      {% include "partials/_card.njk" %}
+    {% endfor %}
+  </div>
+</article>

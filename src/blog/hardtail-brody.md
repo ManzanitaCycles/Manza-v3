@@ -1,5 +1,5 @@
 ---
-title: Brody's hardtail
+title: Hardtail for Brody
 date: 2023-02-06
 featuredImage: 20ebc999-e6fc-4588-a0a1-62a318885901
 alt: Manzanita steel hardtail with green OneUp Components grips and pedals

@@ -1,4 +1,6 @@
-<figure>
-  <a href="{{ post.url }}"><img data-blink-uuid="{{ post.data.featuredImage }}" alt="{{ post.data.alt }}" width="600px" height="400px"></a>
-</figure>
-<p class="font-special flow-xs">{{ post.data.title }}</p>
+<div class="card">
+  <a href="{{ post.url }}">
+    <img data-blink-uuid="{{ post.data.featuredImage }}" alt="{{ post.data.alt }}" width="900px" height="600px">
+    <p>{{ post.data.title }}</p>
+  </a>
+</div>

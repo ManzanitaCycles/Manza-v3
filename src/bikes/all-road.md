@@ -58,6 +58,7 @@ Carbon forks weigh less. That's their real advantage. Carbon forks cannot be pow
 - Fender mounts: $25
 - Rack mounts (per pair): $25
 
+<div class="l-grid img-grid full-bleed">
 {% img "7a7a975b-a669-4901-ba38-70d7d2ea7632", "" %}
 {% img "e3e935fd-fc3a-41bb-bfc4-6db8bc246aeb", "" %}
 {% img "5f72fd63-ecf3-4ea6-9923-af3ee3fb26c9", "" %}
@@ -68,7 +69,7 @@ Carbon forks weigh less. That's their real advantage. Carbon forks cannot be pow
 {% img "797cb39b-3215-40c2-b334-13c15866bd37", "" %}
 {% img "0089f0b4-7694-40d4-81a3-e60d01254e10", "" %}
 {% img "1cf8d2dd-2331-4a94-8dde-15d48d3b3948", "" %}
-
+</div>
 
 
 

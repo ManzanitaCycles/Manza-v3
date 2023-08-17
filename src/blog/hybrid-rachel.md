@@ -1,5 +1,5 @@
 ---
-title: Rachel's hybrid
+title: Hybrid for Rachel
 date: 2020-10-06
 featuredImage: 4a6e97fd-7b29-492c-a25a-a3aff31a5bb9
 alt: Fenders on a custom steel ultralight touring bike

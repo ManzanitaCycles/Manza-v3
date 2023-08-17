@@ -1,5 +1,5 @@
 ---
-title: Steve W.'s gravel bike
+title: Gravel bike for Steve W.
 date: 2023-05-05
 featuredImage: 03146ecc-db03-4aca-8077-855dcbaaabbc
 alt: Steve's manzanita red gravel bike

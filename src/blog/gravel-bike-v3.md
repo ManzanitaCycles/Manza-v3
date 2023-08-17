@@ -1,5 +1,5 @@
 ---
-title: Nick J.'s gravel bike
+title: Gravel bike v3
 date: 2023-05-29
 featuredImage: 14c38fd0-bff7-47bc-b3a7-a2748c2cb8b0
 alt: Blue and yellow gravel Manzanita Cycles gravel bike

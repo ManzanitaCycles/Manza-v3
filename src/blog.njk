@@ -5,12 +5,12 @@ title: Blog
 metaDesc: The Manzanita blog includes articles about bike components, frame geometry, bikepacking and touring trips, and other topics on bike culture and custom bike frames.
 type: website
 ---
-<div class="center">
-<h1>{{ title }}</h1>
-<div class="grid flow-xl">
-  {% set latest_posts = collections.blog | reverse %}
-  {% for post in latest_posts %}
-    <div>{% include "partials/_card.njk" %}</div>
-  {% endfor %}
-</div>
-</div>
+<article class="wrapper">
+  <h1 class="text-center white-space">{{title}}</h1>
+  <div class="grid flow-s">
+    {% set latest_posts = collections.blog | reverse %}
+    {% for post in latest_posts %}
+      {% include "partials/_card.njk" %}
+    {% endfor %}
+  </div>
+</article>

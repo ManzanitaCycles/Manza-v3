@@ -1,5 +1,5 @@
 ---
-title: Mike's gravel bike
+title: Gravel bike for Mike S.
 date: 2022-10-04
 featuredImage: 908f5be0-c85e-4e0d-8a28-b88de79f8e46
 alt: Manzanita gravel bike

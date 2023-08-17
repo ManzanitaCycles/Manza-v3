@@ -1,5 +1,5 @@
 ---
-title: Matt's gravel bike
+title: Gravel bike for Matt S.
 date: 2022-04-16
 featuredImage: 74f96a03-ecaa-4f03-9aa0-0cb27f46d48c
 alt: Baby blue gravel bike

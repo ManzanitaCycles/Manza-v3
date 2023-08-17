@@ -1,17 +1,33 @@
 const htmlmin = require("html-minifier");
 const CleanCSS = require("clean-css");
+const postCss = require('postcss');
+const cssnano = require('cssnano');
+
+const postcssFilter = (cssCode, done) => {
+	// we call PostCSS here.
+	postCss(cssnano({ preset: 'default' }))
+		.process(cssCode, {
+			// path to our CSS file
+			from: './src/_includes/css/styles.css'
+		})
+		.then(
+			(r) => done(null, r.css),
+			(e) => done(e, null)
+		);
+};
 
 module.exports = 
 function(eleventyConfig) {
-    eleventyConfig.addPassthroughCopy('./src/static/css');
-    eleventyConfig.addPassthroughCopy('./src/static/img');
-    eleventyConfig.addPassthroughCopy('./src/static/fonts');
+    eleventyConfig.addPassthroughCopy('./src/static/');
+
+    // Watch for changes to css file
+    eleventyConfig.addWatchTarget('./src/_includes/css/styles.css');
+    eleventyConfig.addNunjucksAsyncFilter('postcss', postcssFilter);
+
 
     // Post image shortcode
-    eleventyConfig.addShortcode("img", function(src, alt) {
-        return `<figure>
-        <img data-blink-uuid="${src}" alt="${alt}" width="900" height="600">
-        </figure>`;
+    eleventyConfig.addShortcode("img", function(src, alt, myClass) {
+        return `<img class="${myClass}" data-blink-uuid="${src}" alt="${alt}" width="2496" height="1664">`;
     });
 
     // Minify and inline CSS

@@ -1,5 +1,5 @@
 ---
-title: Carrie's bikepacking bike
+title: Bikepacking bike for CJ
 date: 2020-02-05
 featuredImage: 28027e63-fe5c-4b38-8f85-391edda23bfc
 alt: Manzanita bikepacking bike with 26-inch wheels

@@ -1,10 +1,29 @@
-<nav class="flow-xl">
-    {%- set previousPost = collections.blog | getPreviousCollectionItem(page) %}
-    {%- if previousPost %}
-        <p>Older post: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></p>
-    {% endif %}
-    {%- set nextPost = collections.blog | getNextCollectionItem(page) %}
-    {%- if nextPost %}
-        <p>Newer post: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></p>
-    {% endif %}
-</nav>
+<div class="center flow-xl">
+    <div class="l-grid grid-2up">
+        <div>
+            {% set previousPost = collections.blog | getPreviousCollectionItem %}
+            {% if previousPost %}
+            <h3>Previous post</h3>
+            <div class="card flow-s">
+                <a href="{{ previousPost.url }}">
+                    <img data-blink-uuid="{{ previousPost.data.featuredImage }}" alt="{{ previousPost.data.alt }}" width="900px" height="600px">
+                    <p>{{ previousPost.data.title }}</p>
+                </a>
+            </div>
+            {% endif %}
+        </div>
+        <div>
+            {% set nextPost = collections.blog | getNextCollectionItem %}
+            {% if nextPost %}
+            <h3>Next post</h3>
+            <div class="card flow-s">
+                <a href="{{ nextPost.url }}">
+                    <img data-blink-uuid="{{ nextPost.data.featuredImage }}" alt="{{ nextPost.data.alt }}" width="900px" height="600px">
+                    <p>{{ nextPost.data.title }}</p>
+                </a>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</div>
+

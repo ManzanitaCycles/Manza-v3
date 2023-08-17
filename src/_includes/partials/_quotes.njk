@@ -1,9 +1,7 @@
-<figure>
-    {% if quote.img %}
-        <img data-blink-uuid="{{ quote.img }}" alt="{{ quote.alt }}">
-    {% endif %}
-    <blockquote cite="{{ quote.cite }}" class="flow-s">
-        <p>&ldquo;{{ quote.text }}&rdquo;</p>
-        <p class="flow-s"><strong>{{ quote.name }}</strong></p>
+<div>
+    <img class="card" data-blink-uuid="{{ quote.img }}" alt="{{ quote.alt }}">
+    <blockquote class="card quote" cite="{{ quote.cite }}">
+        <p><em>{{ quote.text }}</em></p>
+        <p><strong>{{ quote.name }}</strong></p>
     </blockquote>
-</figure>
+</div>

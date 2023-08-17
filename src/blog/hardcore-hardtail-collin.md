@@ -1,5 +1,5 @@
 ---
-title: Collin's hardcore hardtail
+title: Hardcore hardtail for Collin
 date: 2020-08-07
 featuredImage: f50faaed-c301-4807-9e34-9bb0aab17e30
 alt: Hardcore hardtail

@@ -1,5 +1,5 @@
 ---
-title: Moira's gravel bike
+title: Bikepacking bike for Moira
 date: 2022-10-12
 featuredImage: a2e7a741-dee1-403a-928f-8cce18cba672
 alt: Moira's Manzanita gravel bike

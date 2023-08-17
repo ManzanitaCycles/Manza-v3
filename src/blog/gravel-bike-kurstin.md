@@ -1,5 +1,5 @@
 ---
-title: Kurstin's glittery gold gravel bike
+title: Gravel bike for Kurstin
 date: 2021-06-12
 featuredImage: f2df6a6d-14eb-47f4-a9c2-0179ffb151f6
 alt: Kurstin's gravel adventure bike.

@@ -49,8 +49,8 @@ Starting at **$2,199**
 - Manzanita signature double arch seat stay bridge: $50
 - Wet paint or cerakote: $200 and up
 
-
-{% img "5f4b921d-832d-4ce2-8eb0-d4555f8856cc" "27.5 hardtail" %}
+<div class="l-grid img-grid full-bleed">
+{% img "67bfc78b-32bc-4ba9-b189-c89bc92f9329" "29er hardtail" %}
 {% img "c38a81db-4653-439a-a3e1-74239229cece" "Riding down a granite rock slab" %}
 {% img "1184855e-c467-4fe2-bbf1-5a4856b32a71" "Double arch seatstay bridge" %}
 {% img "ba35abef-2383-412c-9eec-10619e676783" "Riding a hardtail in Bellingham" %}
@@ -61,6 +61,6 @@ Starting at **$2,199**
 {% img "a846bbe6-14b8-4d5d-8972-5c0b24328414" "Custom Rockgeist bolt-on framebag and top tube bag" %}
 {% img "f4e340f0-39c4-4d2f-b6ba-ec503bfca8d6" "Aggressive 29er hardtail" %}
 {% img "ead1a433-b7ce-4812-88dd-195f88c1abdd" "IS rear brake mount with 180mm rotor" %}
-{% img "80a6db3d-a0b2-4d03-ac59-c78228d0f1a3" "Blue Manzanita hardtail frame" %}
 {% img "23afc161-153f-4330-adcf-4dfb63519b61" "Seat tube fillet brazing" %}
-{% img "d4aad66c-3588-4a32-8df0-b43ab20bc6e5" "Manzanita head tube badge" %}
+{% img "59d22708-02bc-4ada-ba35-2f2b9dbb5e2a" "Bikepacking bike" %}
+</div>

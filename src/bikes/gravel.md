@@ -65,16 +65,15 @@ Carbon forks weigh less. That's their real advantage. Otherwise, all carbon fork
 - Fender mounts: $25
 - Rack mounts (per pair): $25
 
+<div class="l-grid img-grid full-bleed">
 {% img "c4dc92bc-19ab-4212-a1a6-9dd674fc3aa8", "Manzanita gravel adventure bike" %}
 {% img "71b964db-2b91-4b84-a3e5-2f695489523a", "Manzanita gravel adventure bike" %}
 {% img "8a671475-28b0-4089-a049-01d6b3830c9d", "Manzanita gravel adventure bike" %}
-{% img "28027e63-fe5c-4b38-8f85-391edda23bfc", "Manzanita gravel adventure bike" %}
 {% img "8b469acf-04d3-465a-a1fa-b9223e44dd00", "Manzanita gravel adventure bike" %}
 {% img "14e71d8b-5496-4812-a533-e4bb8da6550e", "Manzanita gravel adventure bike" %}
 {% img "6baa0982-6107-4a70-9429-45aec30e6278", "Manzanita gravel adventure bike" %}
 {% img "6e99aca3-9c23-406f-a162-bb6b9c26486d", "Manzanita gravel adventure bike" %}
-{% img "98af1330-5f5e-4a5a-b726-66be04dedfb0", "Manzanita gravel adventure bike" %}
-
+</div>
 
 
 

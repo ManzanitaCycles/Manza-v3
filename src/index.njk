@@ -5,43 +5,39 @@ metaDesc: Custom steel bike frames for your next adventure
 type: website
 ---
 
-<div class="center section-flow">
-<section>
-    <figure>
-    <img data-blink-uuid="ded5de21-93cd-4f27-9063-d4b290331f2a" alt="Loaded bikepacking bike in Nevada" width="900" height="600">
-  </figure>
-  <h1 class="h1 flow-m reduced-line-height">Custom steel bike frames for your next adventure</h1>
+<section class="l-grid grid-hero">
+  <h1 class="glass-text">Custom steel bike frames<br />for your next adventure</h1>
+  <img data-blink-uuid="ded5de21-93cd-4f27-9063-d4b290331f2a" alt="Loaded bikepacking bike in Nevada" width="2448" height="1632">
 </section>
 
-<section>
+<section class="region wrapper">
     <h2>Bikes</h2>
-    <h3 class="subheader">{{ bikes.intro }}</h3>
-    <div class="grid-3 flow-l">
+    <h3>{{ bikes.intro }}</h3>
+    <div class="l-grid grid-3up flow-s">
         {% for post in collections.bikes %}
-          <div class="grid-item">{% include "partials/_card.njk" %}</div>
+          {% include "partials/_card.njk" %}
         {% endfor %}
     </div>
 </section>
 
-<section>
+<section class="region wrapper">
     <h2>Manzanita love</h2>
-    <h3 class="subheader">I swear these customers weren't bribed</h3>
-    <div class="grid flow-l">
+    <h3>I swear these customers weren't bribed</h3>
+    <div class="l-grid grid-3up flow-s">
     {% for quote in quotes %}
         {% include "partials/_quotes.njk" %}
     {% endfor %}
     </div>
 </section>
 
-<section>
+<section class="region wrapper">
   <h2>From the blog</h2>
-  <h3 class="subheader">Build reviews, trip reports, and opinion pieces</h3>
-  <div class="grid flow-l">
+  <h3>Build reviews, trip reports, and opinion pieces</h3>
+  <div class="l-grid grid-3up flow-s">
     {% set latest_posts = collections.blog | reverse %}
-    {% for post in latest_posts.slice(0,4) %}
-      <div class="grid-item">{% include "partials/_card.njk" %}</div>
+    {% for post in latest_posts.slice(0,3) %}
+      {% include "partials/_card.njk" %}
     {% endfor %}
   </div>
-  <p class="flow-xl"><a class="cta" href="/blog">View all posts</a></p>
+  <p class="text-center flow-l"><a class="cta" href="/blog">View all posts</a></p>
 </section>
-</div>
