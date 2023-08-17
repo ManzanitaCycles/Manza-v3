@@ -142,6 +142,7 @@ article li + li {
   place-content: center;
   overflow: hidden;
   text-align: center;
+  aspect-ratio: 3000 / 2005;
 }
 
 .grid-hero > * {
