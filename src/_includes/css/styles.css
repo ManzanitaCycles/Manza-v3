@@ -142,8 +142,6 @@ article li + li {
   place-content: center;
   overflow: hidden;
   text-align: center;
-  aspect-ratio: 16/9;
-  object-fit: cover;
 }
 
 .grid-hero > * {
