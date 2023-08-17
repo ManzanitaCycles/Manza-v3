@@ -64,6 +64,14 @@ body {
   background: var(--clr-lightish);
 }
 
+/* Keep footer at bottom of page */
+main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
 a,
 strong {
   font-weight: 700;
