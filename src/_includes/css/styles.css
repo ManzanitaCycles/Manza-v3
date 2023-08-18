@@ -152,11 +152,6 @@ article li + li {
   z-index: 10;
 }
 
-.grid-hero img {
-  aspect-ratio: 3000 / 2005;
-  position: relative;
-}
-
 @media all and (min-width: 50rem) {
   .grid-2up {
     grid-template-columns: 1fr 1fr;
