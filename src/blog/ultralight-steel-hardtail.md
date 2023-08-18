@@ -133,6 +133,6 @@ The bike with pedals and King titanium cages weighs 19.69lbs or 8.93kg. Woot, wo
 
 This is by far the lightest bike I now own. Once the MADE bike show is over, I have a few rides in mind to give it a good test, including a 100-mile bikepacking route in the Lost Sierra with tons of long, steep climbs.
 
-Projects like these that are a bit unique are super fun. If you've always wanted to build an ultralight hardtail, [give me a ring](https://manzanitacycles.com/contact) and we'll make it happen.
+Unique projects like these are super fun. If you've always wanted to build an ultralight hardtail, [give me a ring](https://manzanitacycles.com/contact) and we'll make it happen.
 
 {% img "8464fd12-3995-4181-9291-2da96300222b", "Race-ready ultralight hardtail", "full-bleed" %}
