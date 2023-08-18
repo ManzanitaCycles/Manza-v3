@@ -17,6 +17,8 @@ And if you want to take it bikepacking, you can request mounts for a custom, bol
 
 Starting at **$2,199**
 
+<p class="flow-l text-center"><a class="cta" href="https://link.waveapps.com/2w8tkt-fjqurh">Place a deposit</a></p>
+
 ### Standard specs
 
 - Custom tubing selection, including custom bent chainstays and seatstays

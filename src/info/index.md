@@ -18,6 +18,8 @@ All custom steel forks start at **$599**.
 
 This includes either a lugged crown, segmented, or unicrown fork with ISO disc brake mounting and thru axle dropouts. I currently don't offer a steel fork for flat mount brakes. For that you can choose among available carbon forks.
 
+<p class="flow-l text-center"><a class="cta" href="https://link.waveapps.com/2w8tkt-fjqurh">Place a deposit</a></p>
+
 
 ## Is shipping included in the price?
 
@@ -35,6 +37,8 @@ I typically use UPS to ship your bike with insurance to cover its replacement in
 4. Once the frame is finished and built into a complete machine, you’ll pay the remaining balance. Your new ride will then be partially disassembled and carefully wrapped in protective packing material and sent to you fully insured. It’s a good idea to bring your new bike to your favorite professional bike mechanic for final assembly.
 
 5. Hop on your new Manzanita and pedal!
+
+<p class="flow-l text-center"><a class="cta" href="https://link.waveapps.com/2w8tkt-fjqurh">Place a deposit</a></p>
 
 
 ## What is your turnaround time?
