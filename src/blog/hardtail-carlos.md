@@ -24,7 +24,7 @@ The cherry on the cake is the beautifully machined Ingrid crankset.
 
 Since Carlos is a professional photographer, I wasn’t surprised that the paint scheme was the most challenging choice for him. He wanted the frame to look nice but not too flashy. He chose a Vanilla Ice Cream powder coat with matte black graphics. Adorned with primarily black and white components, this bike looks ready to attend a fancy soiree. 
 
-<div class="img-grid-7 full-bleed">
+<div class="grid-l img-grid full-bleed">
 {% img "cb887ada-a166-4d47-b03b-3d2e6ed55f77", "Engin Cycles dual bolt seat collar" %}
 {% img "049e8d55-2b87-4cca-ae2a-dad8ee560fd9", "Ingrid crankset, chainring and bottom bracket" %}
 {% img "8a97a702-2d10-462b-aa3d-ae9702076bf2", "Manzanita signature double arch seat stay bridge" %}
