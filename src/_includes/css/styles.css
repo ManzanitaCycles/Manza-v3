@@ -96,6 +96,7 @@ h2,
 h3 {
   font-family: var(--ff-accent);
   line-height: 1.1;
+  tex-wrap: balance;
 }
 
 h1 {
