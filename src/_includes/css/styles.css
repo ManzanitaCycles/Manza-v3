@@ -152,13 +152,17 @@ article li + li {
   z-index: 10;
 }
 
+.stretch-2up {
+  display: flex;
+}
+
 @media all and (min-width: 50rem) {
   .grid-2up {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(2, 1fr);
   }
   
   .grid-3up {
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(3, 1fr);
   }
   .img-grid {
     grid-template-columns: repeat(3, auto);
