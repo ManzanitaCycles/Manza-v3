@@ -46,7 +46,7 @@ Starting at **$2,199**
 
 - Bolt-on frame bag mounts: $30
 - Extra water bottle mounts: $25
-- Sliding dropouts: $100
+- Sliding dropouts: $150
 - UDH compatible dropouts: $0
 - Manzanita signature double arch seat stay bridge: $50
 - Wet paint or cerakote: $200 and up

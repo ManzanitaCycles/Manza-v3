@@ -47,7 +47,7 @@ Starting at **$2,199**
 - Fender mounts: $50
 - Rack mounts: $50
 - Internal dropper post routing: $50
-- Sliding dropouts: $100
+- Sliding dropouts: $150
 - UDH compatible dropouts: $0
 - Manzanita signature double arch seat stay bridge $50
 - Custom wet paint design or cerakote: $200 and up
