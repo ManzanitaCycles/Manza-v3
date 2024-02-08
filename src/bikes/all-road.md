@@ -15,7 +15,7 @@ All-road bikes are wonderful companions for randonneuring events and light touri
 
 Your frame will be fully custom. The fit, geometry, and tubing selection will be tuned for your weight, riding style, and frame size.
 
-Starting at **$2,199**
+Starting at **$2,399**
 
 <p class="flow-l text-center"><a class="cta" href="https://link.waveapps.com/2w8tkt-fjqurh">Place a deposit</a></p>
 
@@ -35,7 +35,8 @@ Starting at **$2,199**
 ### What's included with the frame
 
 - Paragon Machine Works aluminum bolt-on rear axle for disc brake frames
-- Wolftooth seat post collar if a braze-on seat post binder isn't used
+- Salsa Lip Lock seat post collar if a braze-on seat post binder isn't used
+- White Industries headset in your color of choice
 
 ### Optional extras
 

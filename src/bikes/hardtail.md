@@ -15,7 +15,7 @@ You can choose how much fork travel you want the frame designed for: from a full
 
 And if you want to take your hardtail bikepacking, you can request mounts for a custom, bolt-on frame bag and extra water bottles.
 
-Starting at **$2,199**
+Starting at **$2,499**
 
 <p class="flow-l text-center"><a class="cta" href="https://link.waveapps.com/2w8tkt-fjqurh">Place a deposit</a></p>
  
@@ -25,6 +25,7 @@ Starting at **$2,199**
 - 2.6" max tire clearance
 - 420mm minimum chainstay length
 - 148x12 rear dropout spacing
+- UDH and Sram Transmission compatible dropouts
 - 52mm or 55mm chainline
 - 36t max chainring
 - IS or flat mount rear disc brake mount
@@ -41,20 +42,20 @@ Starting at **$2,199**
 
 - Paragon Machine Works bolt-on rear axle
 - Engin Cycles dual bolt seat collar
+- White Industries headset in your color of choice
 
 ### Optional extras
 
 - Bolt-on frame bag mounts: $30
 - Extra water bottle mounts: $25
-- Sliding dropouts: $150
-- UDH compatible dropouts: $0
-- Manzanita signature double arch seat stay bridge: $50
+- Rack mounts: $50
+- Sliding dropouts: $200
 - Wet paint or cerakote: $200 and up
 
 <div class="l-grid img-grid full-bleed">
 {% img "67bfc78b-32bc-4ba9-b189-c89bc92f9329" "29er hardtail" %}
 {% img "c38a81db-4653-439a-a3e1-74239229cece" "Riding down a granite rock slab" %}
-{% img "1184855e-c467-4fe2-bbf1-5a4856b32a71" "Double arch seatstay bridge" %}
+{% img "dda1faec-48f5-4e4b-96e5-72f65088b794" "Hardtail frame" %}
 {% img "ba35abef-2383-412c-9eec-10619e676783" "Riding a hardtail in Bellingham" %}
 {% img "96975bcc-9967-4c25-8d51-d455c0793446" "Custom steel yoke" %}
 {% img "91ba45d7-a9a4-49a4-8209-d6c60163e353" "Custom black and silver fade with stars paint job" %}

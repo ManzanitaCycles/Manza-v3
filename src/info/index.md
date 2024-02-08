@@ -8,22 +8,22 @@ type: article
 
 ## How much does a frame and fork cost?
 
-All fillet-brazed steel frames start at **$2,199**.
+All steel frames start at **$2,399**.
 
-This includes two sets of mounting points for water bottles, stops/guides for brake and derailleur lines, ISO disc brake mounting, 12mm thru axle dropouts, and a single color powder coat with contrasting graphics.
+This includes two sets of mounting points for water bottles, stops/guides for brake and derailleur lines, IS disc brake mounting, 12mm thru axle dropouts, a single color powder coat with contrasting graphics, and a White Industries headset in your color of choice.
 
-Extra options are available and included in the order form you'll receive after you make your deposit.
+Extra options are available and listed one the pages for each bike model. If you don't see an option listed, let me know and I'll provide a quote if I'm able and willing to do it.
 
 All custom steel forks start at **$599**.
 
-This includes either a lugged crown, segmented, or unicrown fork with ISO disc brake mounting and thru axle dropouts. I currently don't offer a steel fork for flat mount brakes. For that you can choose among available carbon forks.
+This includes either a lugged crown or unicrown fork with IS disc brake mounting and thru axle dropouts. I currently don't offer a steel fork for flat mount brakes. For that you can choose among available carbon forks.
 
 <p class="flow-l text-center"><a class="cta" href="https://link.waveapps.com/2w8tkt-fjqurh">Place a deposit</a></p>
 
 
 ## Is shipping included in the price?
 
-I typically use UPS to ship your bike with insurance to cover its replacement in case of theft or damage. Shipping to a US destination starts at $100 for a frame set and $150 for a complete bike. International destinations will be more. You can also pick up the bike from Manzanita Cycles World Headquarters if you live near Reno.
+I typically use UPS to ship your bike with insurance to cover its replacement in case of theft or damage. Shipping to a US destination starts at $75 for a frame set and $150 for a complete bike. International destinations will be more. You can also pick up the bike from Manzanita Cycles World Headquarters if you live near Reno.
 
 
 ## What's the ordering process?

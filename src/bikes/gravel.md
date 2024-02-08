@@ -15,7 +15,7 @@ Your Manzanita gravel bike will be designed and built for you. The fit, geometry
 
 And if you want to take it bikepacking, you can request mounts for a custom, bolt-on frame bag, extra water bottles, and a rear rack.
 
-Starting at **$2,199**
+Starting at **$2,399**
 
 <p class="flow-l text-center"><a class="cta" href="https://link.waveapps.com/2w8tkt-fjqurh">Place a deposit</a></p>
 
@@ -38,7 +38,8 @@ Starting at **$2,199**
 ### What's included with the frame
 
 - Paragon Machine Works aluminum bolt-on rear axle
-- Wolftooth seat post collar
+- Salsa Lip Lock seat post collar
+- White Industries headset in your color of choice
 
 ### Optional extras
 
@@ -47,9 +48,8 @@ Starting at **$2,199**
 - Fender mounts: $50
 - Rack mounts: $50
 - Internal dropper post routing: $50
-- Sliding dropouts: $150
+- Sliding dropouts: $200
 - UDH compatible dropouts: $0
-- Manzanita signature double arch seat stay bridge $50
 - Custom wet paint design or cerakote: $200 and up
 
 
