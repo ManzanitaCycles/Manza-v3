@@ -8,7 +8,7 @@ type: article
 
 ## How much does a frame and fork cost?
 
-All steel frames start at **$2,399**.
+All steel frames start at **$2,499**.
 
 This includes two sets of mounting points for water bottles, stops/guides for brake and derailleur lines, IS disc brake mounting, 12mm thru axle dropouts, a single color powder coat with contrasting graphics, and a White Industries headset in your color of choice.
 

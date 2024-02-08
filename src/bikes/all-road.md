@@ -15,7 +15,7 @@ All-road bikes are wonderful companions for randonneuring events and light touri
 
 Your frame will be fully custom. The fit, geometry, and tubing selection will be tuned for your weight, riding style, and frame size.
 
-Starting at **$2,399**
+Starting at **$2,499**
 
 <p class="flow-l text-center"><a class="cta" href="https://link.waveapps.com/2w8tkt-fjqurh">Place a deposit</a></p>
 
